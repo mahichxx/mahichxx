@@ -14,6 +14,7 @@ Looking for an IT internship where I can learn and contribute.
 
 [![Email](https://img.shields.io/badge/zagnetovamasha@gmail.com-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b2e)](mailto:zagnetovamasha@gmail.com)
 [![GitHub](https://img.shields.io/badge/@mahichxx-d8b4fe?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e)](https://github.com/mahichxx)
+[![Telegram](https://img.shields.io/badge/@Mahichxxx-d8b4fe?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e1b2e)](https://t.me/Mahichxxx)
 
 </div>
 
